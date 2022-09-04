@@ -1,5 +1,5 @@
 # ❓다음 분기에 어떤 게임을 설계해야 할까?
-데이터셋
+데이터셋 - Kaggle Video Game Sales
 - Rank - Ranking of overall sales
 - Name - The games name
 - Platform - Platform of the games release (i.e. PC,PS4, etc.)
